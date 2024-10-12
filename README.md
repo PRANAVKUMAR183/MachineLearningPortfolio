@@ -50,10 +50,11 @@
 
 *This project focuses on analyzing customer reviews for restaurants and predicting the sentiment (positive or negative) using machine learning techniques
 
-**Key Techniques Used**: Data Preprocessing,Bag of Words (BoW)
+**Key Techniques Used**: Natural Language Processing, Bag of Words (BoW)
 
 **Outcome**:Model predicted the results with a 73% accuracy.
-
+#### accuracy score
+![](accuracy_score.png)
 
 
 ### [Project_5:Product_Purchase_Prediction](https://github.com/PRANAVKUMAR183/Product_Purchase_Prediction) (Link to project)
