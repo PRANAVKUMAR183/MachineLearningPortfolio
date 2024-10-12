@@ -21,6 +21,7 @@
 **Key Techniques Used**: Data Preprocessing,Thompson Sampling,
 
 **Outcome**:A histogram was plotted tovisualize the result and finalize the best add.
+![](ADS.png)
 
 
 
