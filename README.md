@@ -1,8 +1,8 @@
 ## MachineLearningProjects
 
 
-####[Project_1:RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews) 
-click
+#### [Project_1:RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews) 
+(Link to project)
 
 This is a project I did during the course of my machine learning certification.
 
