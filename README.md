@@ -18,10 +18,24 @@
 
 *The goal of this project is to determine the best advertisement to display by analyzing Click-Through Rates (CTR) using reinforcement learning.
 
-**Key Techniques Used**: Data Preprocessing,Thompson Sampling,
+**Key Techniques Used**: Data Preprocessing and Thompson Sampling
 
 **Outcome**:A histogram was plotted tovisualize the result and finalize the best add.
 ![](ADS.png)
+
+
+
+### [Project_3:SuperMarket_Row_Optimization](https://github.com/PRANAVKUMAR183/SuperMarket_Row_Optimization) (Link to project)
+
+*This is a project I did during the course of my machine learning certification.
+
+*The goal of this project is to optimize the arrangement of supermarket rows to maximize sales and customer convenience.
+
+**Key Techniques Used**: Eclat model,Data Analysis and Optimization Models
+
+**Outcome**:Enhanced store layout that improves customer shopping experience and boosts sales
+
+
 
 
 
