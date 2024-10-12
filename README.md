@@ -1,5 +1,13 @@
 # MachineLearningProjects
-###Project_1:Predicting the salary of an incoming manager based on salaries from previous companies by position
-*Sample CSV file was created for 10 positions and their respective salaries
-*Steps followed : DataPreprocessing ->Training Random Forest Regression Model->Predicting the result->Visualizing the result
-*Estimated Salary was $167000
+# Project 1:RestaurantReviews
+
+**Description**:This project focuses on analyzing customer reviews for restaurants and predicting the sentiment (positive or negative) using machine learning techniques
+
+**Link to project**:[RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews)
+
+**Key Techniques Used**:
+
+  Data Preprocessing,Bag of Words (BoW),Modeling,Prediction,Evaluation
+  
+**Result Outcome**:Model predicted the results with a 73% accuracy.
+
