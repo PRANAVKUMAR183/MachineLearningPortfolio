@@ -2,7 +2,7 @@
 
 ### [Project_1:Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization) (Link to project)
 
-*Developed a machine learning model using Python to predict Apple stock prices based on historical data for improved investment decisions.Using 50-day moving average and 200-day moving aveerage.
+*Developed a machine learning model using Python to predict Apple stock prices based on historical data for improved investment decisions.Using 50-day moving averages and 200-day moving averages.
 
 **Key Techniques Used**: Random_Forest_Regression,Stock Analysis
 
