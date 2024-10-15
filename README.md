@@ -1,7 +1,16 @@
 # MachineLearningProjects
 
-
 ### [Project_1:Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization) (Link to project)
+
+*Developed a machine learning model using Python to predict stock prices based on historical data for improved investment decisions
+
+**Key Techniques Used**: Random_Forest_Regression,Stock Analysis
+
+**Outcome**: Evaluated model performance using RMSE(4.03) and achieved improved prediction accuracy with Random Forest. Visualized predictions to demonstrate the stock's performance trajectory.
+![](9F823EEF-D08D-42DE-830B-7C96469FC1A9.jpeg)
+
+
+### [Project_2:Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
@@ -19,7 +28,7 @@
 ![](K-Means.png)
 
 
-### [Project_2:Best_Advertisement](https://github.com/PRANAVKUMAR183/Best_Advertisement) (Link to project)
+### [Project_3:Best_Advertisement](https://github.com/PRANAVKUMAR183/Best_Advertisement) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
@@ -32,7 +41,7 @@
 
 
 
-### [Project_3:SuperMarket_Row_Optimization](https://github.com/PRANAVKUMAR183/SuperMarket_Row_Optimization) (Link to project)
+### [Project_4:SuperMarket_Row_Optimization](https://github.com/PRANAVKUMAR183/SuperMarket_Row_Optimization) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
@@ -44,7 +53,7 @@
 ![](supermarket.png)
 
 
-### [Project_4:RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews) (Link to project)
+### [Project_5:RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
@@ -57,7 +66,7 @@
 ![](accuracy_score.png)
 
 
-### [Project_5:Product_Purchase_Prediction](https://github.com/PRANAVKUMAR183/Product_Purchase_Prediction) (Link to project)
+### [Project_6:Product_Purchase_Prediction](https://github.com/PRANAVKUMAR183/Product_Purchase_Prediction) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
@@ -69,7 +78,7 @@
 ![](Kernel-SVM.png)
 
 
-### [Project_6:Salary_Predictor](https://github.com/PRANAVKUMAR183/Salary_Predictor) (Link to project)
+### [Project_7:Salary_Predictor](https://github.com/PRANAVKUMAR183/Salary_Predictor) (Link to project)
 
 *This is a project I did during the course of my machine learning certification.
 
