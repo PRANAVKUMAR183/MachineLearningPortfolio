@@ -1,6 +1,6 @@
 # MachineLearningProjects
 
-### [Project_1:StockPricePrediction](https://github.com/PRANAVKUMAR183/StockPricePrediction) (Link to project)
+### [Project_1:StockPricePredictor](https://github.com/PRANAVKUMAR183/StockPricePredictor) (Link to project)
 
 *Developed a machine learning model using Python to predict Apple stock prices based on historical data for improved investment decisions.Using 50-day moving averages and 200-day moving averages.
 
