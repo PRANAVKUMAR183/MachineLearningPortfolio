@@ -1,6 +1,22 @@
 # MachineLearningProjects
 
-### [Project_1:CAPM](https://github.com/PRANAVKUMAR183/CAPM) (Link to project)
+### [Project_1:SP_500_ANALYSIS](https://github.com/PRANAVKUMAR183/SP_500_ANALYSIS) (Link to project)
+
+*Calculated the correlation between S&amp;P 500(Closing prices and Volumes)
+
+**Key Libraries Used**: Yfinance,PlotlyExpress,Numpy and Pandas
+
+**Outcome**:There was a negative corelation between Closing price returns and Volume ,showcasing that these factors do not move in the same direction.
+![](Relationship.jpeg)
+![](Corelation.jpeg)
+
+**Negative and positive returns**
+
+![](Countofbad.jpeg)
+![](Goodbadgraph.jpeg)
+
+
+### [Project_2:CAPM](https://github.com/PRANAVKUMAR183/CAPM) (Link to project)
 
 *This regression output shows the relationship between excess stock returns (dependent variable: Rets_ex) and excess market returns (Mkt-RF). The regression uses the Capital Asset Pricing Model (CAPM)
 
@@ -14,16 +30,6 @@ Constant: 0.0383, though not statistically significant (p-value = 0.200).
 
 1.879, suggesting low autocorrelation in residuals.
 ![](CAMP.jpeg)
-
-
-### [Project_2:StockPricePredictor](https://github.com/PRANAVKUMAR183/StockPricePredictor) (Link to project)
-
-*Developed a machine learning model using Python to predict Apple stock prices based on historical data for improved investment decisions.Using 50-day moving averages and 200-day moving averages.
-
-**Key Techniques Used**: Random_Forest_Regression,Stock Analysis
-
-**Outcome**: Evaluated model performance using RMSE(4.03) and achieved improved prediction accuracy with Random Forest. Visualized predictions to demonstrate the stock's performance trajectory.
-![](9F823EEF-D08D-42DE-830B-7C96469FC1A9.jpeg)
 
 
 ### [Project_3:Customer_Categorization](https://github.com/PRANAVKUMAR183/Customer_Categorization) (Link to project)
